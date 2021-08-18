@@ -33,7 +33,6 @@ import java.util.Collections;
  */
 public class SecondActivity extends AppCompatActivity {
 
-
     private double mistakeCounter,correctCounter;
     int numImg[] = new int[10];
     int clickFirst,clickSecond,numberOfRows,numberOfCols;

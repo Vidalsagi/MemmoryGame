@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="START">START</string>
+    <string name="SCORE">SCORE</string>
+    <string name="PROGRESS">PROGRESS</string>
+    <string name="END_GAME">END GAME</string>
+    <string name="NEW_GAME">NEW GAME</string>
+    <string name="BACK_MENU">BACK TO MENU</string>
+    <string name="Night_MOD">Night mod</string>
+    <string name="COLS">Choose Rows</string>
+    <string name="ROWS">Choose Cols</string>
+    <string name="invalid">invalid input</string>
+
+
+
+
+    <string-array name="Sizes">
+        <item>2x2</item>
+        <item>4x4</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">משחק הזכרון</string>
+    <string name="START">שחק</string>
+    <string name="SCORE">ניקוד</string>
+    <string name="PROGRESS">התקדמות</string>
+    <string name="END_GAME">סוף משחק</string>
+    <string name="NEW_GAME">משחק חדש</string>
+    <string name="BACK_MENU">חזרה לתפריט</string>
+    <string name="Night_MOD">מצב לילה</string>
+    <string name="COLS">בחר עמודות</string>
+    <string name="ROWS">בחר שורות</string>
+    <string name="invalid">קלט לא חוקי</string>
+
+
+
+</resources>
